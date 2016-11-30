@@ -1,10 +1,14 @@
 # Configuring Your Oculus Development Environment
 
-As part of this workshop, you will create accounts at several services. Please use an email address you will always have access to (we recommend using your professional email) and please also choose a very strong, unique password for each service. In some cases (Unity and Oculus especially) you may (optionally) link your account to a means of payment for purchases. Thus, you want to protect those accounts as strongly as possible.
+This page contains up-to-date instructions and troubleshooting tips for the software applications used in *[Immersive Approaches to Biological Data Visualization](http://meetings.cshl.edu/courses.aspx?course=C-VISUALIZ&year=16)*. If you have corrections or contributions, please either edit/propose changes directly at Github, or write an issue so we can revise the material as needed. It is written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) so formatting your contributions should be very easy!
+
+An installer file or archive for (almost) every application referenced here can be found on your workshop computer under *`...\<User>\Documents\Installers`*
+
+_As part of the course, you will need to create accounts at several services. Please use an email address you will always have access to (we recommend using your professional email account) and please choose a very strong, unique password for each service. In some cases (Unity and Oculus especially) you may (optionally) link your account to a means of payment for purchases. Thus, you want to protect those accounts as strongly as possible._
 
 ## Oculus Home
 
-Oculus Home is an application for interacting with "officially sanctioned" Oculus applications and for configuring/testing Oculus hardware components.
+Oculus Home is an application for interacting with "officially sanctioned" Oculus applications and for configuring/testing Oculus hardware components. [Screenshot](assets/oculus-home.png)
 
 1. Create an [Oculus Home account](https://secure.oculus.com/sign-up/?login_redirect_uri=https%3A%2F%2Fwww.oculus.com%2F)
 2. Download the Oculus Home installer. There is also a copy in your computer's *Installers* directory.
@@ -13,10 +17,24 @@ Oculus Home is an application for interacting with "officially sanctioned" Oculu
 
 ## Oculus Software Development Kit
 
+## Unity3D
+
+[Unity](http://unity3d.com) is a popular, user-friendly software platform for building rich, interactive games and multimedia experiences. In recent years, it has been enhanced to empower you to develop multi-platform VR and AR applications.
+
+* Go to the Unity3D home page.
+* Click on the profile icon in the top right corner and follow the instructions to create a Unity ID.
+  * This user account will hold your (free) Unity license and will be a gateway towards publishing and using "assets" on the Unity Store. It is also needed if you choose to upgrade your Unity license with additional functionality in the future.
+
+Next, either:
+
+* Download Unity Download Assistant, find it in `Downloads`, click on the *Unity Download Assistant* (currently UnityDownloadAssistant-5.4.3f1) and follow the instructions on screen.
+* Navigate to the `Installers` directory and _blah blah local copies of Unity assets_
+
+Launch Unity3D and install the licence locally (_instructions TBD_). This ensures that even if you don't have Internet access you will be able to develop using Unity3D.
 
 ## Leapmotion Orion
 
-"Orion" is the working name for Leapmotion's detection and response software on Windows.
+"Orion" is the working name for Leapmotion's gesture detection and control software for Windows.
 
 1. Download [Orion](https://www.leapmotion.com/setup) from the Leapmotion web site. There is also a copy of the installer (Leap_Motion_Setup_Win_3.1.3.exe) in your local Installers directory.
 2. Click on the Installer and follow the on-screen instructions.
@@ -25,14 +43,6 @@ Oculus Home is an application for interacting with "officially sanctioned" Oculu
 
 1. Go to the [Leapmotion Developers' Site](https://developer.leapmotion.com/get-started)
 2. Download [Orion Beta](https://central.leapmotion.com/users/sign_in?use_iframe=true&developer=1) software development kit. You will be asked to provide account information. If you did not create a Leapmotion account as part of setting up the Leapmotion system, you should do so now. There is a copy of the Orion Beta SDK installer (Leap_Motion_SDK_Windows_3.1.3.zip) in your Installers directory.
-
-## Unity3D
-
-[Unity](http://unity3d.com) is a popular, user-friendly software platform for building rich, interactive games and multimedia experiences. In recent years, it has been enhanced to empower you to develop multi-platform VR and AR applications.
-
-1. Go to the Unity3D home page. Click on the profile icon in the top right corner and follow the instructions to create a Unity ID. This user account will hold your (free) Unity license and will be a gateway towards publishing and using "assets" on the Unity Store. It is also needed if you choose to upgrade your Unity license with additional functionality in the future.
-2. Click on the *Unity Download Assistant* (currently UnityDownloadAssistant-5.4.3f1) and follow the instructions
-3. Launch Unity3D and install the licence locally (instructions TBD). This ensures that even if you don't have Internet access you will be able to develop using Unity3D.
 
 ## Steam and SteamVR
 
