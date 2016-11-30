@@ -2,7 +2,7 @@
 
 This page contains up-to-date instructions and troubleshooting tips for the software applications used in *[Immersive Approaches to Biological Data Visualization](http://meetings.cshl.edu/courses.aspx?course=C-VISUALIZ&year=16)*. If you have corrections or contributions, please either edit/propose changes directly at Github, or write an issue so we can revise the material as needed. It is written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) so formatting your contributions should be very easy!
 
-An installer file or archive for (almost) every application referenced here can be found on your workshop computer under *`...\<User>\Documents\Installers`*
+An installer file or archive for (almost) every application referenced here can be found on your workshop computer under *`This PC\Documents\INSTALLERS`*
 
 _As part of the course, you will need to create accounts at several services. Please use an email address you will always have access to (we recommend using your professional email account) and please choose a very strong, unique password for each service. In some cases (Unity and Oculus especially) you may (optionally) link your account to a means of payment for purchases. Thus, you want to protect those accounts as strongly as possible._
 
@@ -28,9 +28,11 @@ Oculus Home is an application for interacting with "officially sanctioned" Oculu
 Next, either:
 
 * Download Unity Download Assistant, find it in `Downloads`, click on the *Unity Download Assistant* (currently UnityDownloadAssistant-5.4.3f1) and follow the instructions on screen.
-* Navigate to the `Installers` directory and _blah blah local copies of Unity assets_
+* Navigate to the `INSTALLERS\Developer Tools\Unity Downloaded Files` and click on *install.bat*
 
-Launch Unity3D and install the licence locally (_instructions TBD_). This ensures that even if you don't have Internet access you will be able to develop using Unity3D.
+![Screenshot: Install from Downloaded Files](assets/install-unity-local.png)
+
+Launch Unity3D and install the license locally (_instructions TBD_). This ensures that even if you don't have Internet access you will be able to develop using Unity3D.
 
 ## Leapmotion Orion
 
